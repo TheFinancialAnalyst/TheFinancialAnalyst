@@ -1,35 +1,21 @@
-<h1 align="center">Hi 👋, I'm Victor Bhattacharya</h1>
-<h3 align="center">Learner in a way to become something good in life.</h3>
+# 💫 About Me:
+PGDM Student, Finance & Analytics. LinkedIn creator: finance, tech. CAPM. Committed to growth, diverse business. Passion: Financial Analytics, Tech (Linux).
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1ugWCjHFTBkgZ-AwEz78Z6&ust=1692511674223000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCID58sSH6IADFQAAAAAdAAAAABAD">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thefinancialanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="thefinancialanalyst" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/teKF46DV2x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-bhattacharya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/The_Berserker) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefinancialanalyst" alt="thefinancialanalyst" /></a> </p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TheFinancialAnalyst&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheFinancialAnalyst&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFinancialAnalyst&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/the_berserker" target="blank"><img src="https://img.shields.io/twitter/follow/the_berserker?logo=twitter&style=for-the-badge" alt="the_berserker" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🌱 I’m currently learning **PGDM ( Finance & Business Analytics )**
+---
+[![](https://visitcount.itsvg.in/api?id=TheFinancialAnalyst&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheFinancialAnalyst](https://github.com/TheFinancialAnalyst)
-
-- 💬 Ask me about **Linux ( Ubuntu ), Python ( Data Visualization )**
-
-- 📫 How to reach me **the.superlative.guy@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/the_berserker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_berserker" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/victor-bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/victor-bhattacharya" height="30" width="40" /></a>
-<a href="https://kaggle.com/techmafia72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="techmafia72" height="30" width="40" /></a>
-<a href="https://discord.gg/teKF46DV2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="teKF46DV2x" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefinancialanalyst&show_icons=true&locale=en&layout=compact" alt="thefinancialanalyst" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefinancialanalyst&show_icons=true&locale=en" alt="thefinancialanalyst" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thefinancialanalyst&" alt="thefinancialanalyst" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
